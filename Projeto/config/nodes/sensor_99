@@ -1,0 +1,13 @@
+List of parameters
+------------------------------------------
+device_type:1
+device_id:99
+device_longitude:-47.54689157009125
+device_latitude:-22.396447538589534
+device_elevation:0.0
+device_radius:0.0
+device_hide:0
+device_pic:0
+device_draw_battery:false
+device_sensor_unit_radius:20.0
+device_script_file_name:sens9.csc

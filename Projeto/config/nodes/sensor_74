@@ -1,0 +1,13 @@
+List of parameters
+------------------------------------------
+device_type:1
+device_id:74
+device_longitude:-47.54359781742096
+device_latitude:-22.397692437331372
+device_elevation:0.0
+device_radius:0.0
+device_hide:0
+device_pic:0
+device_draw_battery:false
+device_sensor_unit_radius:20.0
+device_script_file_name:sens74.csc

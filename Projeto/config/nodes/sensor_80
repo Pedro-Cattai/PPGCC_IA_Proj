@@ -1,0 +1,13 @@
+List of parameters
+------------------------------------------
+device_type:1
+device_id:80
+device_longitude:-47.543957233428955
+device_latitude:-22.393818831321692
+device_elevation:0.0
+device_radius:0.0
+device_hide:0
+device_pic:0
+device_draw_battery:false
+device_sensor_unit_radius:20.0
+device_script_file_name:sens80.csc

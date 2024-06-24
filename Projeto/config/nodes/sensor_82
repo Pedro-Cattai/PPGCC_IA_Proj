@@ -1,0 +1,13 @@
+List of parameters
+------------------------------------------
+device_type:1
+device_id:82
+device_longitude:-47.54525542259216
+device_latitude:-22.393183966267
+device_elevation:0.0
+device_radius:0.0
+device_hide:0
+device_pic:0
+device_draw_battery:false
+device_sensor_unit_radius:20.0
+device_script_file_name:sens82.csc
